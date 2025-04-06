@@ -4,7 +4,7 @@
 
 An interactive Fantasy Premier League analytics dashboard powered by Python and Streamlit. Analyze players based on form, cost, minutes, and upcoming fixture difficulty. Make smarter transfer, captaincy, and squad decisions — all in one place.
 
-![screenshot](FPLAnalyst.PNG) <!-- Replace with your own image later -->
+![screenshot](FPLAnalyst.png) <!-- Replace with your own image later -->
 
 ---
 
